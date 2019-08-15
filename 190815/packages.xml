@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<packages>
+    <package id="googlechrome" />
+    <package id="vscode" />
+    <package id="git" />
+    <package id="nodist" />
+    <package id="wget" />
+    <package id="tor-browser" />
+    <package id="itunes" />
+    <package id="7zip" />
+    <package id="7zip.commandline" />
+    <package id="peazip" />
+    <package id="vlc" />
+    <package id="aimp" />
+    <package id="reaper" />
+    <package id="foobar2000" />
+    <package id="audacity" />
+    <package id="audacity-lame" />
+    <package id="mp3tag" />
+    <package id="gimp" />
+    <package id="pngoo" />
+    <package id="screentogif" />
+    <package id="obs-studio" />
+    <package id="libreoffice-fresh" />
+    <package id="ultradefrag" />
+    <package id="lockhunter" />
+    <package id="unity" />
+    <package id="steam" />
+    <package id="minecraft" />
+</packages>

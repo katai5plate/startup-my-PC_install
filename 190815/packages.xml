@@ -27,4 +27,5 @@
     <package id="unity" />
     <package id="steam" />
     <package id="minecraft" />
+    <package id="nordvpn" />
 </packages>

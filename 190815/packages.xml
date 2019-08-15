@@ -28,4 +28,5 @@
     <package id="steam" />
     <package id="minecraft" />
     <package id="nordvpn" />
+    <package id="skype" />
 </packages>

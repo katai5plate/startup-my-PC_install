@@ -20,6 +20,7 @@
         { "PackageIdentifier": "Microsoft.VisualStudioCode" },
         { "PackageIdentifier": "Zoom.Zoom" },
         { "PackageIdentifier": "GitHub.GitHubDesktop" },
+        { "PackageIdentifier": "TheDocumentFoundation.LibreOffice" },
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",

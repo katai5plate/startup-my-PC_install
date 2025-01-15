@@ -20,7 +20,6 @@
         { "PackageIdentifier": "IObit.IObitUnlocker" },
         { "PackageIdentifier": "Apple.iTunes" },
         { "PackageIdentifier": "Amazon.Kindle" },
-        { "PackageIdentifier": "Mega.MEGASync" },
         { "PackageIdentifier": "Mojang.MinecraftLauncher" },
         { "PackageIdentifier": "FlorianHeidenreich.Mp3tag" },
         { "PackageIdentifier": "OBSProject.OBSStudio" },
@@ -31,10 +30,7 @@
         { "PackageIdentifier": "Valve.Steam" },
         { "PackageIdentifier": "TorProject.TorBrowser" },
         { "PackageIdentifier": "Unity.UnityHub" },
-        { "PackageIdentifier": "Unity.Unity.6000" },
-        { "PackageIdentifier": "Microsoft.VisualStudio.2022.Community" },
-        { "PackageIdentifier": "VideoLAN.VLC" },
-        { "PackageIdentifier": "WiresharkFoundation.Wireshark" }
+        { "PackageIdentifier": "VideoLAN.VLC" }
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",

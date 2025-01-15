@@ -17,7 +17,6 @@
         { "PackageIdentifier": "GIMP.GIMP" },
         { "PackageIdentifier": "GodotEngine.GodotEngine" },
         { "PackageIdentifier": "Inkscape.Inkscape" },
-        { "PackageIdentifier": "IObit.IObitUnlocker" },
         { "PackageIdentifier": "Apple.iTunes" },
         { "PackageIdentifier": "Amazon.Kindle" },
         { "PackageIdentifier": "Mojang.MinecraftLauncher" },

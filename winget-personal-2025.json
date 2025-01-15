@@ -30,6 +30,7 @@
         { "PackageIdentifier": "Valve.Steam" },
         { "PackageIdentifier": "TorProject.TorBrowser" },
         { "PackageIdentifier": "Unity.UnityHub" },
+        { "PackageIdentifier": "Unity.Unity.6000" },
         { "PackageIdentifier": "VideoLAN.VLC" },
         { "PackageIdentifier": "Microsoft.VisualStudio.2022.Community" },
         { "PackageIdentifier": "WiresharkFoundation.Wireshark" }

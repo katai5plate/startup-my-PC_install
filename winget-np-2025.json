@@ -7,6 +7,9 @@
         { "PackageIdentifier": "Amazon.Music" },
         { "PackageIdentifier": "Amazon.Kindle" },
         { "PackageIdentifier": "Microsoft.VisualStudio.2022.Community" },
+        { "PackageIdentifier": "Proton.ProtonVPN" },
+        { "PackageIdentifier": "Unity.UnityHub" },
+        { "PackageIdentifier": "Unity.Unity.6000" },
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",

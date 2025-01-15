@@ -18,7 +18,8 @@
         { "PackageIdentifier": "TortoiseGit.TortoiseGit" },
         { "PackageIdentifier": "JAMSoftware.UltraSearch" },
         { "PackageIdentifier": "Microsoft.VisualStudioCode" },
-        { "PackageIdentifier": "Zoom.Zoom" }
+        { "PackageIdentifier": "Zoom.Zoom" },
+        { "PackageIdentifier": "GitHub.GitHubDesktop" },
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",

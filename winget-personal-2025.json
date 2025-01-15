@@ -11,8 +11,6 @@
         { "PackageIdentifier": "CrystalDewWorld.CrystalDiskInfo" },
         { "PackageIdentifier": "CrystalDewWorld.CrystalDiskMark" },
         { "PackageIdentifier": "Discord.Discord" },
-        { "PackageIdentifier": "ElectronicArts.EADesktop" },
-        { "PackageIdentifier": "EpicGames.EpicGamesLauncher" },
         { "PackageIdentifier": "Sayuri.FFFTP" },
         { "PackageIdentifier": "Gyan.FFmpeg" },
         { "PackageIdentifier": "PeterPawlowski.foobar2000" },
@@ -32,12 +30,10 @@
         { "PackageIdentifier": "Cockos.REAPER" },
         { "PackageIdentifier": "Valve.Steam" },
         { "PackageIdentifier": "TorProject.TorBrowser" },
-        { "PackageIdentifier": "Ubisoft.Connect" },
         { "PackageIdentifier": "Unity.UnityHub" },
         { "PackageIdentifier": "Unity.Unity.6000" },
         { "PackageIdentifier": "Microsoft.VisualStudio.2022.Community" },
         { "PackageIdentifier": "VideoLAN.VLC" },
-        { "PackageIdentifier": "NexusMods.Vortex" },
         { "PackageIdentifier": "WiresharkFoundation.Wireshark" }
       ],
       "SourceDetails": {

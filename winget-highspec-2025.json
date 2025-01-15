@@ -8,6 +8,7 @@
         { "PackageIdentifier": "EpicGames.EpicGamesLauncher" },
         { "PackageIdentifier": "Ubisoft.Connect" },
         { "PackageIdentifier": "NexusMods.Vortex" },
+        { "PackageIdentifier": "Nvidia.GeForceExperience" },
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",

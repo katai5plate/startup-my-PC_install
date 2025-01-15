@@ -1,0 +1,37 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2025-01-01T00:00:00.000-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Bitwarden.Bitwarden" },
+        { "PackageIdentifier": "SlackTechnologies.Slack" },
+        { "PackageIdentifier": "Figma.Figma" },
+        { "PackageIdentifier": "Notion.Notion" },
+        { "PackageIdentifier": "Microsoft.PowerToys" },
+        { "PackageIdentifier": "NickeManarin.ScreenToGif" },
+        { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+        { "PackageIdentifier": "GitHub.GitHubDesktop" },
+        { "PackageIdentifier": "Malwarebytes.AdwCleaner" },
+        { "PackageIdentifier": "Amazon.Music" },
+        { "PackageIdentifier": "LAME.LAME" },
+        { "PackageIdentifier": "Discord.Discord" },
+        { "PackageIdentifier": "Gyan.FFmpeg" },
+        { "PackageIdentifier": "GIMP.GIMP" },
+        { "PackageIdentifier": "GodotEngine.GodotEngine" },
+        { "PackageIdentifier": "Inkscape.Inkscape" },
+        { "PackageIdentifier": "Amazon.Kindle" },
+        { "PackageIdentifier": "Ocenaudio.Ocenaudio" },
+        { "PackageIdentifier": "OnionShare.OnionShare" },
+        { "PackageIdentifier": "TorProject.TorBrowser" },
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.9.25200"
+}

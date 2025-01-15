@@ -8,7 +8,6 @@
         { "PackageIdentifier": "SlackTechnologies.Slack" },
         { "PackageIdentifier": "Figma.Figma" },
         { "PackageIdentifier": "Docker.DockerDesktop" },
-        { "PackageIdentifier": "TheDocumentFoundation.LibreOffice" },
         { "PackageIdentifier": "CrystalRich.LockHunter" },
         { "PackageIdentifier": "Notepad++.Notepad++" },
         { "PackageIdentifier": "Notion.Notion" },

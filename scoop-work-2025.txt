@@ -9,11 +9,9 @@ lockhunter
 notepadplusplus
 notion
 ocenaudio
-onionshare
 openssl
 peazip
 powertoys
-reaper
 screentogif
 teraterm
 everything-cli

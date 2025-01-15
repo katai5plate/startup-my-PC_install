@@ -1,0 +1,33 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2023-01-27T11:58:35.669-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Bitwarden.Bitwarden" },
+        { "PackageIdentifier": "SlackTechnologies.Slack" },
+        { "PackageIdentifier": "Figma.Figma" },
+        { "PackageIdentifier": "Docker.DockerDesktop" },
+        { "PackageIdentifier": "TheDocumentFoundation.LibreOffice" },
+        { "PackageIdentifier": "CrystalRich.LockHunter" },
+        { "PackageIdentifier": "Notepad++.Notepad++" },
+        { "PackageIdentifier": "Notion.Notion" },
+        { "PackageIdentifier": "Giorgiotani.Peazip" },
+        { "PackageIdentifier": "Microsoft.PowerToys" },
+        { "PackageIdentifier": "NickeManarin.ScreenToGif" },
+        { "PackageIdentifier": "TeraTermProject.teraterm5" },
+        { "PackageIdentifier": "TortoiseGit.TortoiseGit" },
+        { "PackageIdentifier": "JAMSoftware.UltraSearch" },
+        { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+        { "PackageIdentifier": "Zoom.Zoom" }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.9.25200"
+}

@@ -14,7 +14,6 @@ foobar2000
 foobar2000-encoders
 gimp
 inkscape
-megasync
 minecraft
 mp3tag
 obs-studio

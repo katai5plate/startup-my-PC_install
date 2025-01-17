@@ -21,3 +21,5 @@ wget
 wireshark
 zoom
 github
+openvpn
+python

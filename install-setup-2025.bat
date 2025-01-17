@@ -9,4 +9,6 @@ scoop install git
 scoop bucket add extras
 scoop bucket add versions
 scoop bucket add games
-winget install Google.Chrome
+
+(iwr "https://raw.githubusercontent.com/katai5plate/startup-my-PC_install/refs/heads/master/winget-np-2025.json").Content > winget-np.json
+winget import winget-np.json
